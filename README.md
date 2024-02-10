@@ -43,7 +43,7 @@ This repository demonstrates a fully layered AUTOSAR application showcasing LED 
 
 **Getting Started:**
 
-1. **Clone the repository:** `git clone https://github.com/Youssef-Abouzeid/-AUTOSAR-Full-Layered-Project`
+1. **Clone the repository:** `git clone https://github.com/Youssef-Abouzeid/AUTOSAR-Full-Layered-Project`
 2. **Build and Run:** Follow the specific instructions provided based on your development environment.
 
 
